@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BudNas</string>
+    <string name="judul">Curtural Title: Dance, Objects, Others</string>
+    <string name="bagikan">Share</string>
+    <string name="tentang_aplikasi">Information About Cultural</string>
+    <string name="copyright">Hak Cipta</string>
+    <string name="kembali">Back</string>
+    <string name="tambah_data">Add Data</string>
+    <string name="reset">Reset</string>
+    <string name="pilih">Select</string>
+    <string name="lanjut">Next</string>
+</resources>

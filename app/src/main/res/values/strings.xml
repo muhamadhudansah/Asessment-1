@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BudNas</string>
+    <string name="judul">Judul Budaya: Tari,Benda, Dll</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="tentang_aplikasi">Info Sekilas Budaya</string>
+    <string name="copyright">Muhamad Hudansah</string>
+    <string name="kembali">Kembali</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="reset">Reset</string>
+    <string name="pilih">Pilih</string>
+    <string name="lanjut">Lanjut</string>
+</resources>
