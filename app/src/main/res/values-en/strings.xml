@@ -6,8 +6,26 @@
     <string name="tentang_aplikasi">Information About Cultural</string>
     <string name="copyright">Hak Cipta</string>
     <string name="kembali">Back</string>
-    <string name="tambah_data">Add Data</string>
+    <string name="tambah_budaya">Add Curtural</string>
     <string name="reset">Reset</string>
     <string name="pilih">Select</string>
     <string name="lanjut">Next</string>
+    <string name="budaya_tak_benda">Intangible Culture</string>
+    <string name="tambah_budaya1">Add Curtural</string>
+    <string name="tambah_error">Cant Add Curtural</string>
+
+    <string name="list_kosong">No data yet</string>
+    <string name="x_diklik">%1$s clicked</string>
+    <string name="isi_budaya">Fill_Curtural</string>
+    <string name="simpan">Save</string>
+    <string name="edit_budaya">Change Curtural</string>
+    <string name="invalid">The title and more of the note cannot be empty.</string>
+    <string name="lainya">Other options</string>
+    <string name="hapus">Delete Curtural</string>
+    <string name="pilih_gambar">Select Image</string>
+    <string name="pesan_hapus">Delete this Curtural?</string>
+    <string name="tombol_hapus">Delete</string>
+    <string name="tombol_batal">Cancel</string>
+    <string name="list">List view</string>
+    <string name="grid">Grid view</string>
 </resources>

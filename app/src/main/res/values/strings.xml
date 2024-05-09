@@ -5,8 +5,27 @@
     <string name="tentang_aplikasi">Info Sekilas Budaya</string>
     <string name="copyright">Muhamad Hudansah</string>
     <string name="kembali">Kembali</string>
-    <string name="tambah_data">Tambah Data</string>
+    <string name="tambah_budaya">Tambah Budaya</string>
     <string name="reset">Reset</string>
     <string name="pilih">Pilih</string>
     <string name="lanjut">Lanjut</string>
+    <string name="budaya_tak_benda">Budaya Tak Benda</string>
+    <string name="tambah_budaya1">Tambah Budaya</string>
+    <string name="tambah_error">Tidak Bisa Tambah Budaya</string>
+
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="isi_budaya">Isi_Budaya</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_budaya">Ubah Budaya</string>
+    <string name="invalid">Judul dan lainya tidak boleh kosong.</string>
+    <string name="lainya">Opsi lainya</string>
+    <string name="hapus">Hapus Budaya</string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="pesan_hapus">Hapus Budaya ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+
 </resources>
